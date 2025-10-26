@@ -1,4 +1,4 @@
-# health-app
+# Nutrition Health Application using Generative AI
 🚀 Introducing the Gemini Health App - Your Personalized Nutrition Advisor! 🍎
 🚀 Introducing the Gemini Health App - Your Personalized Nutrition Advisor! 🍎
 
